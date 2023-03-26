@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\TP_MOD6_1302210087\TP_MOD6_1302210087\bin\Debug\net6.0\TP_MOD6_1302210087.exe
+C:\Users\LENOVO\source\repos\TP_MOD6_1302210087\TP_MOD6_1302210087\bin\Debug\net6.0\TP_MOD6_1302210087.deps.json
+C:\Users\LENOVO\source\repos\TP_MOD6_1302210087\TP_MOD6_1302210087\bin\Debug\net6.0\TP_MOD6_1302210087.runtimeconfig.json
+C:\Users\LENOVO\source\repos\TP_MOD6_1302210087\TP_MOD6_1302210087\bin\Debug\net6.0\TP_MOD6_1302210087.dll
+C:\Users\LENOVO\source\repos\TP_MOD6_1302210087\TP_MOD6_1302210087\bin\Debug\net6.0\TP_MOD6_1302210087.pdb
+C:\Users\LENOVO\source\repos\TP_MOD6_1302210087\TP_MOD6_1302210087\obj\Debug\net6.0\TP_MOD6_1302210087.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\TP_MOD6_1302210087\TP_MOD6_1302210087\obj\Debug\net6.0\TP_MOD6_1302210087.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\TP_MOD6_1302210087\TP_MOD6_1302210087\obj\Debug\net6.0\TP_MOD6_1302210087.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\TP_MOD6_1302210087\TP_MOD6_1302210087\obj\Debug\net6.0\TP_MOD6_1302210087.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\TP_MOD6_1302210087\TP_MOD6_1302210087\obj\Debug\net6.0\TP_MOD6_1302210087.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\TP_MOD6_1302210087\TP_MOD6_1302210087\obj\Debug\net6.0\TP_MOD6_1302210087.dll
+C:\Users\LENOVO\source\repos\TP_MOD6_1302210087\TP_MOD6_1302210087\obj\Debug\net6.0\refint\TP_MOD6_1302210087.dll
+C:\Users\LENOVO\source\repos\TP_MOD6_1302210087\TP_MOD6_1302210087\obj\Debug\net6.0\TP_MOD6_1302210087.pdb
+C:\Users\LENOVO\source\repos\TP_MOD6_1302210087\TP_MOD6_1302210087\obj\Debug\net6.0\TP_MOD6_1302210087.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\TP_MOD6_1302210087\TP_MOD6_1302210087\obj\Debug\net6.0\ref\TP_MOD6_1302210087.dll
